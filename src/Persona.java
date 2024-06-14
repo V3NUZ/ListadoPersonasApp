@@ -57,7 +57,7 @@ public class Persona {
                 ", nombre='" + nombre + '\'' +
                 ", tel='" + tel + '\'' +
                 ", email='" + email + '\'' +
-                '}' + super.toString();
+                '}';
     }
 
     public static void main(String[] args) {
